@@ -1,5 +1,5 @@
 # web
 
-[index.html](https://migueltc13.github.io/web/)
+[migueltc13.github.io/web/](https://migueltc13.github.io/web/)
 
-[ThatsTheFinger]()
+[ThatsTheFinger](https://migueltc13.github.io/web/ThatsTheFinger/index.html)
