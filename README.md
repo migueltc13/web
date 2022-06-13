@@ -2,6 +2,6 @@
 
 [migueltc13.github.io/web/](https://migueltc13.github.io/web/)
 
-[ThatsTheFinger](https://migueltc13.github.io/web/ThatsTheFinger/index.html)
+[ThatsTheFinger](https://migueltc13.github.io/web/ThatsTheFinger/)
 
-[Bitcoin](https://migueltc13.github.io/web/Bitcoin/index.html) **TODO** fix loop + gold color bg
+[Bitcoin](https://migueltc13.github.io/web/Bitcoin/) **TODO** fix loop + gold color bg
