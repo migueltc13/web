@@ -4,4 +4,4 @@
 
 [ThatsTheFinger](https://migueltc13.github.io/web/ThatsTheFinger/)
 
-[Bitcoin](https://migueltc13.github.io/web/Bitcoin/) **TODO** fix loop + gold color bg
+[Bitcoin](https://migueltc13.github.io/web/Bitcoin/)
